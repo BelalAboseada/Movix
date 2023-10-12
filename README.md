@@ -2,8 +2,7 @@
 # Movix
 Movie app created with 
 
-Vite
-
+<a href="https://vitejs.dev/">
 [
 React,
 react-router,
