@@ -24,11 +24,11 @@ To run this project locally on your machine you will need Node.js installed alon
 1. Clone the repository using `git clone https://github.com/BelalAboseada/Movix.git
 2. Navigate to the root directory of the cloned repo in your terminal
 3. Run
-  ```
-npm install
-```
- to install all required dependencies
-   
+ ```
+ npm install
+ ```
+  to install all required dependencies
+  
 5. Create a `.env` file in the root folder and copy the contents of `.env.
 6. In the `.env` file replace `<your-secret>` with any random string. This
 secret is used as the JWT encryption key.
